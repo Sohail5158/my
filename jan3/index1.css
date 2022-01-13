@@ -1,0 +1,18 @@
+header{
+    background-color: aqua;
+    height: 150px;
+   
+    
+}
+h2{
+    float: left;
+    width: 60%;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#prop{
+    width: 40%;
+    float: right;
+}
